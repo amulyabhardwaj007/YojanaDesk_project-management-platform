@@ -5,7 +5,7 @@
 
 > **YojanaDesk** transforms how teams collaborate—by combining AI-powered task management, GitHub automation, real-time chat, and analytics dashboards in one unified experience.
 
-🌐 **Live Demo**: [project-management-tool-two-jet.vercel.app](https://project-management-tool-two-jet.vercel.app)  
+  
 📦 **Source Code**: [github.com/amulyabhardwaj007/YojanaDesk_project-management-platform](https://github.com/amulyabhardwaj007/YojanaDesk_project-management-platform)
 
 ---
